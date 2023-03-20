@@ -28,8 +28,6 @@ module.exports = (on, config) => {
     console.log('override before:run');  
     await beforeRunHook(details);  
     //If you are using other than Windows remove below two lines  
-    await exec("IF EXIST cypress\\screenshots rmdir /Q /S cypress\\screenshots")  
-    await exec("IF EXIST cypress\\reports rmdir /Q /S cypress\\reports")  
   });
 
 on('after:run', async () => {  
