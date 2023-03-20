@@ -1,0 +1,7 @@
+{
+    "inputEmail": "//input[@name='email']",
+    "inputPassword": "//input[@name='password']",
+    "buttonEnter": "//button[@type='submit']",
+    "comboBoxLanguages": "//div[@role='combobox']",
+    "optionLanguageEnglish": "Inglés"
+}

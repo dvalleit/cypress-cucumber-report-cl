@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.4370" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-06-03T23:09:11" tests="0" file="cypress/integration/tests/redirectHomeGroowcity.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Link redirection" timestamp="2022-06-03T23:09:11" tests="1" time="10.4100" failures="0">
+    <testcase name="Link redirection The user goes to the contact module" time="7.1440" classname="The user goes to the contact module">
+    </testcase>
+  </testsuite>
+</testsuites>

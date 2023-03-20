@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuites failures="0" errors="0" tests="3">
+  <testsuite name="Root Suite" timestamp="2022-06-03T23:08:28" tests="0" file="cypress/integration/tests/createAccountGroowcity.feature" time="0.0000" failures="0"/>
+  <testsuite name="Create account" timestamp="2022-06-03T23:08:28" tests="1" time="19.2700" failures="0">
+    <testcase name="Create account Create account without data" time="14.8620" classname="Create account without data"/>
+  </testsuite>
+  <testsuite name="Root Suite" timestamp="2022-06-03T23:09:11" tests="0" file="cypress/integration/tests/redirectHomeGroowcity.feature" time="0.0000" failures="0"/>
+  <testsuite name="Link redirection" timestamp="2022-06-03T23:09:11" tests="1" time="10.4100" failures="0">
+    <testcase name="Link redirection The user goes to the contact module" time="7.1440" classname="The user goes to the contact module"/>
+  </testsuite>
+  <testsuite name="Root Suite" timestamp="2022-06-03T23:08:51" tests="0" file="cypress/integration/tests/loginGroowcity.feature" time="0.0000" failures="0"/>
+  <testsuite name="Login" timestamp="2022-06-03T23:08:51" tests="1" time="15.3950" failures="0">
+    <testcase name="Login The user logs in incorrectly (example #1)" time="12.5630" classname="The user logs in incorrectly (example #1)"/>
+  </testsuite>
+</testsuites>

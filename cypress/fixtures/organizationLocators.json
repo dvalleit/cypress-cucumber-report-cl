@@ -1,0 +1,3 @@
+{
+    "buttonCreateAccount": "//button[@type='submit']"
+}

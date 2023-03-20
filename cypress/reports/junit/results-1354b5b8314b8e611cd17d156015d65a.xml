@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="19.2890" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-06-03T23:08:28" tests="0" file="cypress/integration/tests/createAccountGroowcity.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Create account" timestamp="2022-06-03T23:08:28" tests="1" time="19.2700" failures="0">
+    <testcase name="Create account Create account without data" time="14.8620" classname="Create account without data">
+    </testcase>
+  </testsuite>
+</testsuites>
